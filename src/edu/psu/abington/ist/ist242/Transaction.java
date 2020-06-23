@@ -11,7 +11,7 @@ package edu.psu.abington.ist.ist242;
 
 import java.util.ArrayList;
 
-enum PaymentType {cash, credit;}
+enum PaymentType {cash, credit}
 
 public class Transaction extends Order{
 
